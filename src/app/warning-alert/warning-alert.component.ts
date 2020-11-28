@@ -5,7 +5,8 @@ import { Component } from '@angular/core';
     selector:'app-warning-alert',
     template:`
             <p>  This is Pamud Udara!!   </p>
-    `
+            <p>  This is Pamud Udara!!   </p>
+            <p>  This is Pamud Udara!!   </p>
 
 
 })
