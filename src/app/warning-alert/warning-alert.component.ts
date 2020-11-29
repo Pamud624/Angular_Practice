@@ -7,7 +7,8 @@ import { Component } from '@angular/core';
             <p>  This is Pamud Udara!!   </p>
             <p>  This is Pamud Udara!!   </p>
             <p>  This is Pamud Udara!!   </p>
-
+    `
+        
 
 })
 
